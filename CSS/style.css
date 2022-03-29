@@ -41,7 +41,7 @@ a:active
   position: fixed;
   right: 0%;
   bottom: 0%;
-  height: 10%;
-  width : 10%;
+  height: 30px;
+  width : auto;
 }
 
